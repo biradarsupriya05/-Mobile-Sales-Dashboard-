@@ -180,3 +180,7 @@ ________________________________________
 
 - 📅 Review quarterly performance to refine sales strategies and achieve sustainable year-over-year growth.
 
+  ## 🙏 Acknowledgment
+
+- Special thanks to **@Satish Dhawale** for his valuable guidance, mentorship, and support throughout the development of this Power BI dashboard project.
+
